@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-transform-delete-console",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiyou00/babel-plugin-transform-delete-console.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiyou00/babel-plugin-transform-delete-console/issues"
+  },
+  "homepage": "https://github.com/shiyou00/babel-plugin-transform-delete-console#readme"
+}
